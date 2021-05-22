@@ -6,5 +6,5 @@ The application allows users in need to exchange the books they have read with e
 The user is anyone who needs to exchange books that have been read and need to find other books.
 
 ## The purposes of the application include:
-. Make it possible for users to find the desired book for free or at a low cost.
-. Free up space when there is no need to store books that do not reread.
+* Make it possible for users to find the desired book for free or at a low cost.
+* Free up space when there is no need to store books that do not reread.
