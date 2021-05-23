@@ -1,10 +1,13 @@
-# ReBook
+# Application to help rent a car to move house
 
-The application allows users in need to exchange the books they have read with each other so that they can read the desired books but do not need to buy new and do not store unnecessary books. Users have to upload pictures as well as information of the book they want to exchange to the system. Once approved, the book will be visible to everyone. Other users wishing to exchange books can make a request to contact the book owner. When both users reach an agreement, the exchange proceeds.
+In order to support users more conveniently in contacting the car rental service to move house. The application allows users to post information and the number of items to be moved, the application will find the vehicle that matches the needs of the customer.
 
 ## Key users:
-The user is anyone who needs to exchange books that have been read and need to find other books.
+* User: those who need to rent a car to move house
+* Driver: people who own cars
+* Admin: manage user list
 
-## The purposes of the application include:
-* Make it possible for users to find the desired book for free or at a low cost.
-* Free up space when there is no need to store books that do not reread.
+## Main functions:
+* User enters personal information and moving house information (departure/destination address, time, volume).
+* Based on the information provided by the user, the service will choose the type of vehicle and estimate the price to let the user know. The user accepts and proceeds.
+
