@@ -1,13 +1,37 @@
-# Application to help rent a car to move house
+# ISongs – A music application
 
-In order to support users more conveniently in contacting the car rental service to move house. The application allows users to post information and the number of items to be moved, the application will find the vehicle that matches the needs of the customer.
+Isongs is an application that provides a list of songs around the world contains lyrics and sheet of songs allows users to search varieties of the songs and bookmark their favorite songs. The best highlight of this application is identifying music instantly by singing or humming. There are two kinds of users: member and VIP member. At a VIP member, they can download and listen the songs offline without advertisement interruptions and access sheet of songs that support them with playing musical instruments. For normal member, they have to wait an ad after finishing three songs in the sequent queue and cannot download their songs.
 
 ## Key users:
-* User: those who need to rent a car to move house
-* Driver: people who own cars
-* Admin: manage user list
 
-## Main functions:
-* User enters personal information and moving house information (departure/destination address, time, volume).
-* Based on the information provided by the user, the service will choose the type of vehicle and estimate the price to let the user know. The user accepts and proceeds.
+### Guest:
 
+- Register
+- Login (Email/Facebook/Phone)
+
+### Member:
+
+- Login
+- Logout
+- Reset forgotten password
+- Get notification when their favorite singers announce a new song and album
+- Search the title the songs/lyrics/singers
+- Bookmark their favorite songs and singers
+- **Activate ‘Luminance’ pack for member to become a VIP member.**
+
+### VIP Member
+
+- Login
+- Logout
+- Reset forgotten password
+- Get notification when their favorite singers announce a new song and album
+- Search the title the songs/lyrics/singers
+- Bookmark their favorite songs and singers
+- **Access the sheets of songs**
+- **Listen to music offline**
+- **Download the songs**
+
+### Administrator:
+
+- Insert/Edit/Delete the songs included in lyrics and sheet of them and singers
+- View member’s profile
