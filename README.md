@@ -1,4 +1,4 @@
 # SWD PROJECT LIST
 
-[ISongs - Music Application](projects/ISongs/README.md)
+[ISongs - Music Application](projects/ISongs)
 
